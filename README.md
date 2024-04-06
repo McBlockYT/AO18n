@@ -1,4 +1,6 @@
-# AO18n
+# AO18n (forked)
+
+THIS IS A FORKED VERSION OF AO18n original: https://github.com/AlphaOmega-IT/AO18n
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub issues](https://img.shields.io/github/issues/AlphaOmega-IT/AO18n.svg)](https://github.com/AlphaOmega-IT/AO18n/issues)
@@ -7,7 +9,6 @@
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/AlphaOmega-IT/AO18n.svg)](https://github.com/AlphaOmega-IT/AO18n/pulls)
 
 ## Overview
-
 AO18n is a powerful internationalization library for Minecraft [Spigot/Paper] Servers. 
 It helps you manage translations and localization in your application efficiently.
 You can provide as many localizations as you want! 
